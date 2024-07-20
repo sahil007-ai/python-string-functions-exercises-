@@ -1,0 +1,1 @@
+# Write a function that takes a list of strings and returns a list of their lengths
